@@ -1,0 +1,9 @@
+.nav-link{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#111
+}
+.navbar-brand{
+ background-image: url('https://web.dev/images/lockup.svg');
+ height: 30px;
+ width: 120px;
+}
